@@ -1,0 +1,418 @@
+
+@media (max-width: 1199px) { 
+  div{
+    width: auto;
+  }
+ 
+  .contact{
+    width: auto;
+    margin:0;
+  }
+  .main{
+    width: auto;
+    margin:0;
+  }
+  .menu{
+    width: auto;
+    margin:0;
+  }
+  .menu nav{
+   display: block;
+    
+  }
+  .header_logo img{
+   width: auto;
+  }
+  .slideText h2{
+   font-size: 40px;
+ }
+ .content_main{
+   width: auto;
+   margin:0;
+ }
+ .content_blok{
+  width: auto;
+  margin: 15px;
+  text-align: center;
+}
+.pic img{
+ width: auto;
+}
+.right p{
+  text-align: center;
+}
+.text{
+  padding:45px;
+  position: relative;
+}
+.content_step{
+  padding:15px;
+}
+.step{
+ display: none;
+}
+.block_foto{
+  width: auto;
+}
+.block_foto{
+  width: auto;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 10px;
+  justify-content: center;
+}
+.form_name{
+  width: auto;
+  margin:0;
+}
+.active_form{
+  width: auto;
+  margin:0;
+}
+.footer_name{
+  width: auto;
+  margin:0;
+}
+
+ }
+ /*****************************************************/
+@media (max-width: 991px) { 
+ 
+ .contact{
+   width: auto;
+   margin:0;
+ }
+ .main{
+   width: auto;
+   margin:0;
+ }
+ .menu{
+  width: auto;
+  margin:0;
+}
+.menu nav{
+  width: auto;
+ display: none;
+  
+}
+.header_logo {
+  width: auto;
+  text-align: center;
+ }
+ .header_logo img{
+  width: auto;
+ }
+ .slideText h2{
+  font-size: 40px;
+}
+.slideText p{
+  font-size: 26px;
+}
+.slideText button{
+  font-size: 19px;
+  padding: 8px 13px 8px 13px;
+}
+.content_main{
+  width: auto;
+  margin:0;
+  flex-direction: column;
+}
+.content_blok{
+  width: auto;
+  margin: 15px;
+  text-align: center;
+}
+.pic img{
+ width: auto;
+}
+.right p{
+  text-align: center;
+}
+.text{
+  padding:45px;
+  position: relative;
+}
+.content_step{
+  padding:15px;
+}
+.step{
+display: none;
+}
+.block_foto{
+  width: auto;
+}
+.block_foto{
+  width: auto;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 10px;
+}
+.form_name{
+  width: auto;
+  margin:0;
+}
+.active_form{
+  width: auto;
+  margin:0;
+}
+.footer_name{
+  width: auto;
+  margin:0;
+}
+.menu__btn{
+  display: block;
+}
+.block_one{
+  order:1;
+}
+.block_two{
+  order:3;
+}
+.block_three{
+  order:2;
+}
+.block_four{
+  order:4;
+}
+
+}
+/**************************************************/
+@media (max-width: 767px) { 
+  .contact{
+    width: auto;
+    margin:0;
+  }
+  .main{
+    width: auto;
+    margin:0;
+  }
+  .menu{
+    width: auto;
+    margin:0;
+  }
+  .menu nav{
+   display: none;
+    
+  }
+  .header_logo img{
+    width: auto;
+   }
+   .header_logo {
+    width: auto;
+    text-align: center;
+   }
+   .slideText h2{
+    font-size: 36px;
+  }
+  .slideText p{
+    font-size: 22px;
+  }
+  .slideText button{
+    font-size: 16px;
+    padding: 6px 11px 6px 11px;
+  }
+  .content_main{
+    width: auto;
+    margin:0;
+    flex-direction: column;
+  }
+  .content_blok{
+    width: auto;
+    margin: 15px;
+    text-align: center;
+  }
+  .pic img{
+   width: auto;
+   padding: 40px;
+  }
+  .right p{
+    text-align: center;
+  }
+ .text{
+    padding:45px;
+    position: relative;
+  }
+  .content_step{
+    padding:15px;
+  }
+  .step{
+  display: none;
+ }
+
+ .block_foto{
+  width: auto;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 10px;
+}
+.form_name{
+  width: auto;
+  margin:0;
+}
+.active_form{
+  width: auto;
+  margin:0;
+}
+.footer_name{
+  width: auto;
+  margin:0;
+}
+.menu__btn{
+  display: block;
+}
+.block_one{
+  order:1;
+}
+.block_two{
+  order:3;
+}
+.block_three{
+  order:2;
+}
+.block_four{
+  order:4;
+}
+
+}
+ /*****************************************************************/
+ @media (max-width: 575px) { 
+  .contact{
+    width: auto;
+    margin-right:100px;
+  }
+  .main{
+    width: auto;
+    margin:0;
+  }
+  .menu{
+    width: auto;
+    margin:0;
+  }
+  .menu nav{
+   display: none;
+    
+  }
+  .header_logo {
+    width: auto;
+    text-align: center;
+   }
+   .slideText h2{
+    font-size: 32px;
+  }
+  .slideText p{
+    font-size: 18px;
+  }
+  .slideText button{
+    font-size: 13px;
+    padding: 6px 11px 6px 11px;
+  }
+  .content_main{
+    width: auto;
+    margin:0;
+    flex-direction: column;
+  }
+  .content_blok{
+    width: auto;
+    margin: 15px;
+    text-align: center;
+  }
+  .contact{
+   display: none;
+  }
+  .pic img{
+   width: 50%;
+   padding: 40px;
+   overflow: hidden;
+  }
+  .right p{
+    text-align: center;
+  }
+ .text{
+    padding:25px;
+    position: relative;
+  }
+  .text_right {
+    padding: 0;
+  }
+  .content_step{
+    padding:15px;
+  }
+  .step{
+    display:none;
+  }
+  .block_foto{
+    width: auto;
+    margin-left: auto;
+  margin-right: auto;
+    padding-bottom: 30px;
+  }
+.form_name{
+  width: auto;
+  margin:0;
+}
+.active_form{
+  width: auto;
+  margin:0;
+}
+p input{
+width: 150px;
+height: 30px;
+margin:0;
+}
+.active_form::after{
+  display: none;
+}
+.active_form .button1{
+  display: none;
+}
+.footer_name{
+  width: auto;
+  margin:0;
+}
+.footer_form p input{
+  width: 250px;
+}
+.menu__btn{
+  display: block;
+}
+.menu button{
+  display: none;
+}
+.block_one{
+  order:1;
+width: auto;
+}
+.block_two {
+  order:3;
+  width: auto;
+}
+.block_three{
+  order:2;
+  width: auto;
+}
+.block_four{
+  order:4;
+  width: auto;
+}
+.img img{
+  width: 100%;
+  height: 100%;
+}
+.block_one .text_foto {
+ width: 100%;
+height:100% ;
+ }
+ .block_two .text_foto{
+  width: 100%;
+height:100% ;
+  }
+  .block_three .img{
+    width: 100%;
+    height:100% ;
+    }
+    .block_four .img{
+      width: 100%;
+height:100% ;
+      }
+      
+ }
